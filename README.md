@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/Stephane-Fidinde/Stephane-Fidinde/main/anim.mp4)
+![stephane](https://raw.githubusercontent.com/Stephane-Fidinde/Stephane-Fidinde/main/anim.mp4)
 
 <!--### Hi there 👋
 
