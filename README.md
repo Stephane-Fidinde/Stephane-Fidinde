@@ -1,4 +1,3 @@
-[![A](https://raw.githubusercontent.com/Stephane-Fidinde/Stephane-Fidinde/main/Basic%20Animations.svg)](https://raw.githubusercontent.com/Stephane-Fidinde/Stephane-Fidinde/main/anim.mp4)
 
 <!--### Hi there 👋
 
