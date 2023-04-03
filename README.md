@@ -14,4 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**S** *t* **e** *p* **h** *a* **n** *e*
+<script>
+function writeWord(word) {
+  let i = 0;
+  const interval = setInterval(function() {
+    if (i >= word.length) {
+      clearInterval(interval);
+    } else {
+      const el = document.getElementById('word');
+      el.innerHTML += word[i];
+      i++;
+    }
+  }, 200);
+}
+
+writeWord('Stephane Fidinde');
+</script>
+<div id="word"></div>
+```
