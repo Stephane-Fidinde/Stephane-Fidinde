@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Stephane-Fidinde/Stephane-Fidinde/main/anim.mp4
+(https://raw.githubusercontent.com/Stephane-Fidinde/Stephane-Fidinde/main/anim.mp4)
 
 <!--### Hi there 👋
 
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <marquee behavior="scroll" direction="left">S t e p h a n e F i d i n d e</marquee>
+-->
