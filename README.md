@@ -1,4 +1,4 @@
-
+ <img align="right" alt="GIF" src="https://github.com/Stephane-Fidinde/Stephane-Fidinde/blob/main/code%202.GIF?raw=true" width="800" height="600" />
 <!--### Hi there 👋
 
 
